@@ -47,7 +47,8 @@ This table lists the file names and descriptions for the files used in the video
 You can get the data from [Video Game Dataset](https://cseweb.ucsd.edu/~jmcauley/datasets/amazon_v2/).  In this case we are only using [Review Dataset](https://datarepo.eng.ucsd.edu/mcauley_group/data/amazon_v2/categoryFiles/Video_Games.json.gz).
 Choose the `Video Games`
 
-![image](https://github.com/armans28/Beauty-Product-Recommendation-System/assets/119162844/7f88378e-2fd6-4e97-8727-93f142f14807)
+![image](https://github.com/armans28/Sentiment-Analysis-of-Video-Game-Review/assets/119162844/ca2ceeb9-43d9-419d-82e1-cb54096dc2a6)
+
 
 
 ## License
