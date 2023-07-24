@@ -1,4 +1,7 @@
 # Sentiment Analysis of Video Game Review
+To view the user's portfolio blog on the Sentiment Analysis of Video Game Review, please visit [My Blog](https://danielrs.systeme.io/sentiment-analysis-of-video-game-review) to see the explanation of the notebook.
+
+Due to the use of `plotly.express` and `plotly.graph_objects`, the visualizations in this code cannot be displayed on GitHub. To view the visualizations, please download the code and run it on your local machine.
 
 ## Dataset Information
 
